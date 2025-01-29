@@ -8,6 +8,7 @@ using System.Data;
 using OWASP.WebGoat.NET.App_Code.DB;
 using OWASP.WebGoat.NET.App_Code;
 
+
 namespace OWASP.WebGoat.NET
 {
 	public partial class SQLInjection : System.Web.UI.Page
